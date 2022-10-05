@@ -6,5 +6,6 @@ public class App {
             System.out.println(i+" alma");
         }
         Animal.animals_are_great();
+        System.out.println("Git coo'");
     }
 }
